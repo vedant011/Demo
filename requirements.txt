@@ -157,7 +157,6 @@ tifffile==2022.5.4
 tinycss2==1.1.1
 toml==0.10.2
 toolz==0.11.2
-torch==1.10.0
 torchvision==0.11.1
 tornado==6.1
 tqdm==4.62.3
